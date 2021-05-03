@@ -1,0 +1,318 @@
+.crypt
+{
+	margin-left:5rem;
+}
+.nav
+{
+	
+text-decoration:none;
+display:inline;
+float:right;
+}
+.headd
+{
+	padding:2rem;
+}
+.navi
+{
+	font-size: 28px;
+    color: #ffffff;
+	font-family: "Futura", sans-serif;
+	padding:7px;
+	text-decoration:none;
+}
+#button
+{
+	font-size:23px;
+	border-radius:50px;
+    border: 2px solid #7ad4cc;	
+	cursor: pointer;
+	padding:2px;
+}	
+.invest
+{
+	padding-left:5rem;
+	padding-top:7rem;
+	font-size:30px;
+	color: #20509e;
+    font-weight: 500;
+    font-family: "Futura", sans-serif;
+}
+#bitcoin
+{
+	color:#16d0c5;
+}
+.second
+{
+	
+	padding:6rem 0rem 6rem 0rem;
+}
+
+h6
+{
+	padding:1rem 1rem 1rem 0rem;
+	
+}
+.emaill
+{
+	width: 320px;
+    height: 45px;
+    font-family: Futura,sans-serif;
+    font-size: 23px;
+    padding: 3px 4px 3px 12px;
+	border-radius:50px;
+}
+.lap
+{
+	
+	width: 27rem;
+    height: 24rem;
+    margin-left: 4rem;
+    margin-top: 6rem;
+}
+.background
+{
+	background-image:url("back.png");
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:40rem;
+	
+}
+h1
+{
+	font-size: 70px;
+    font-variant: small-caps;
+    font-weight: 550;
+    font-family: "Futura", sans-serif;
+    margin-bottom: 24px;
+}
+h3
+{
+	color: #20509e;
+    font-weight: 500;
+	font-size: 20px;
+	 font-family: "Lato", sans-serif;
+    margin-bottom: 20px;
+}
+h4
+{
+	text-align:center;
+	font-size: 18px;
+	color: #ffffff;
+    font-family: "Lato", sans-serif;
+}
+.boxx
+{
+	margin-top:3rem;
+}
+.linear{
+	padding:12rem 0rem 16rem 0rem;
+	text-align:center;
+	background-image: linear-gradient(to right, #3e2bce 0%, #2dd3aa 100%, #2dd3aa 100%, #2dd3aa 100%);
+}
+.linea
+{
+	padding:3rem 0rem 3rem 0rem;
+	text-align:center;
+	background-image: linear-gradient(to right, #3e2bce 0%, #2dd3aa 100%, #2dd3aa 100%, #2dd3aa 100%);
+}
+.ourfeauture
+{
+	padding:4rem
+}
+.aboutphone
+{
+	
+	display:inline;
+	padding-left:1rem;
+}
+.phoneicon{
+	 padding-right:8px;
+}
+.feature
+{
+	vertical-align:top;
+	width:1rem;
+}
+.feature-content
+{
+	padding-left:2rem;
+}
+.feature>safe
+{
+	font-size:20px;
+	display:inline;
+}
+.link
+{
+	color:#e5ede1;
+}
+.wallet
+{
+	word-wrap: break-word;
+}
+h2
+{
+
+	padding-left:1rem;
+}
+.forthtitle
+{
+    margin-bottom: 20px;
+}
+.spad
+{
+	padding-top:10rem;
+	padding-bottom:8rem;
+}
+.spadd
+{
+	padding-top:20rem;
+	padding-bottom:8rem;
+}
+.create
+{
+	border:2px solid #fcfbfa;
+	box-shadow:linear-gradient(to right, rgba(225, 236, 240,1),rgba(255, 255, 255,0));
+	margin-top:20px;
+	padding:2rem;
+}
+.process
+{
+	
+	padding:0rem 2rem 0rem 9rem;
+}
+.fact-section
+{
+	padding:50px 0px;
+}
+.number
+{
+	color:#79b1ed;
+}
+.spaceit
+{
+	
+}
+.bitto
+{
+	font-size:2rem;
+	
+}
+.owl-prev
+{
+	margin-left:28rem;
+}
+.gap
+{
+	width:8rem;
+
+}
+.news
+{
+	float:left;
+}
+.lineara
+{
+    
+    padding: 5rem 0rem 6rem 13rem;
+	background-image: linear-gradient(to right, #3e2bce 0%, #2dd3aa 100%, #2dd3aa 100%, #2dd3aa 100%);
+}
+.buttt
+{
+	margin-left:64rem;
+}
+.iconcenter
+{
+	text-align: left;
+	padding:2rem
+}
+.latest-news
+{
+padding:2rem;
+text-align:center;
+}
+#latestnews
+{
+	width:23rem;
+	margin-bottom:2rem;
+}
+.blog-text
+{
+	padding:2rem;
+}
+.blog-title
+{
+	text-align:left;
+	font-size:24px;
+	margin-top:3rem;
+}
+.post-date
+{
+	font-size: 24px;
+    font-family: "Futura", sans-serif;
+    color: #16d0c5;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    letter-spacing: 4px;
+}
+.late
+{
+	padding:1rem 1rem 1rem 1rem;
+	box-shadow:2px 2px 7px #d8d8d4  ;
+	
+}
+.foot
+{
+	padding-top:4rem;
+	padding-bottom:3rem;
+}
+.foote-text
+{
+	padding-top:2rem;
+	padding-bottom:1rem;
+}
+.footealign
+{
+	padding:1rem 1rem 1rem 5rem;
+}
+.listr
+{
+	text-align:left;
+	text-decoration:none;
+}
+.textfive
+{
+	font-size:32px;
+}
+.foll
+{
+	margin-left:15px;
+}
+.lost
+{
+	margin-left:26rem;
+	text-decoration:none;
+}
+.loster
+{
+	padding:0.5rem;
+	text-decoration:none;
+	color:#636362;
+}
+.facee
+{
+	border-radius:500px;
+	
+}
+.img-fluid
+{
+	border-radius:200px;
+}
+.icon-align
+{
+	margin-top:1rem;
+	padding:4px;
+	display:inline;
+	
+}
